@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "async": "~0.2.9",
+    "binary-search-tree": "^0.2.4",
+    "browserify": "~2.25.0",
+    "fs-extra": "~0.6.3",
+    "uglify-js": "~2.3.6",
+    "underscore": "^1.7.0"
+  }
+}
